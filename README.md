@@ -1,2 +1,2 @@
 # Stupid-Cubes
-A game made by python.
+A game made using python.
